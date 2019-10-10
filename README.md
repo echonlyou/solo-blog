@@ -10,8 +10,8 @@
 
 ### 最新
 
+* [天弓](https://www.trustzp.top/articles/2019/10/10/1570714589765.html)
 * [我在 GitHub 上的开源项目](https://www.trustzp.top/my-github-repos)
-* [世界，你好！](https://www.trustzp.top/hello-solo)
 
 
 
