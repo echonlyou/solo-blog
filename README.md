@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [卧虎藏龙](https://www.trustzp.top/articles/2019/10/11/1570768822280.html)
 * [天弓](https://www.trustzp.top/articles/2019/10/10/1570714589765.html)
 * [我在 GitHub 上的开源项目](https://www.trustzp.top/my-github-repos)
 
